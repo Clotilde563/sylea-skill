@@ -74,7 +74,7 @@ openclaw skills info sylea
 
 Créé par l'équipe Syléa — https://sylea-ai.com
 
-**License MIT**. Le code est libre, tes données sont les tiennes.
+**License MIT-0** (MIT No Attribution). Le code est libre, tes données sont les tiennes.
 
 ## Support
 
